@@ -1,0 +1,8 @@
+"src/main.o"
+"src/stm32_ub_led.o"
+"src/syscalls.o"
+"src/system_stm32f4xx.o"
+"src/tm_stm32f4_gpio.o"
+"src/tm_stm32f4_rng.o"
+"src/tm_stm32f4_usart.o"
+"startup/startup_stm32f4xx.o"
